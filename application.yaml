@@ -1,5 +1,5 @@
 spring:
   server:
-    name: der Apfelkuchen
+    name: der Apfelkuchen (dot)
     number: 39775356
     Kopf: Augen
