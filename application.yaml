@@ -1,0 +1,4 @@
+spring:
+  server:
+    name: der Apfelkuchen
+
